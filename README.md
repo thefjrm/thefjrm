@@ -1,6 +1,6 @@
 ### Hi, I am Felipe 👋
 I am studying to become a great Front-End Web Developer.
-- I’m currently working on several project to apply my learning and you can check some of them in my repositories.
+- I’m currently working on several projects to apply my learning and you can check some of them in my repositories.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=thefjrm)
 
