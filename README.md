@@ -23,9 +23,9 @@ Atualmente meu foco está em Computação em Nuvem, na plataforma AWS 🤓! No m
 
 ## Você pode me achar na web por aqui: 🌍
 
-<a href = "mailto:felipejosemartinsrj@outlook.com" target = "_blank"><img src="https://https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/mailboxdotorg.svg" /></a>
-<a href = "https://www.linkedin.com/in/thefjrm/" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href = "https://www.credly.com/users/felipejrmartins" target = "_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/credly.svg" /></a>
+<a href = "mailto:felipejosemartinsrj@outlook.com" target = "_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/mailboxdotorg.svg" /></a>
+<a href = "https://www.linkedin.com/in/thefjrm/" target = "_blank"><img height="32" width="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "https://www.credly.com/users/felipejrmartins" target = "_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/credly.svg" /></a>
 
 ---
 
