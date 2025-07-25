@@ -10,7 +10,7 @@
 
 ## 🚀 Principais Tecnologias | Main Technologies
 
-- ✅ Python / Docker / Terraform
+- ✅ Python / Docker / Terraform / AWS / Shell Script / Oracle Cloud
 
 ---
 
@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -46,14 +48,14 @@
 ## 🌐 Onde me encontrar | Where to find me
 
 <p align="center">
-  <a href="mailto:felipejosemartinsrj@outlook.com" target="_blank">
-    <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/microsoftoutlook.svg" alt="Outlook"/>
-  </a>
   <a href="https://www.linkedin.com/in/felipejrmartins/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.credly.com/users/felipejrmartins/badges#credly" target="_blank">
     <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/credly.svg" alt="Credly"/>
+  </a>
+  <a href="https://felipemartins.netlify.app/" target="_blank">
+    <img height="32" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"/>
   </a>
 </p>
 
